@@ -1,4 +1,4 @@
-                                   ![Victor](./victor.jpg "Victor")
+                                   ![Victor](./victor.jpeg)
 
 
 
