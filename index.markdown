@@ -1,4 +1,4 @@
-                                   ![Victor](./victor.jpeg)
+                                   <center>(./victor.jpeg)</center>
 
 
 
